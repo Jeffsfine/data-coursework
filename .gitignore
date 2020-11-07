@@ -6,7 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-# Reserved Comment
+# Mac Files
+.DS_Store
 
 # Distribution / packaging
 .Python
